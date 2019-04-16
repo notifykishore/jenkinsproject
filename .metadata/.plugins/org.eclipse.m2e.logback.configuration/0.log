@@ -556,3 +556,6 @@
 2019-04-16 14:46:04,735 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
 2019-04-16 14:46:14,705 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\localrepo\jenkinsproject\Maventest
 2019-04-16 14:46:14,706 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2019-04-16 15:04:43,482 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-04-16 15:04:43,545 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\localrepo\jenkinsproject\Maventest
+2019-04-16 15:04:43,546 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
